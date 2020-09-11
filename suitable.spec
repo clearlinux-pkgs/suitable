@@ -4,7 +4,7 @@
 #
 Name     : suitable
 Version  : 0.17.2
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/0c/c5/139eb5686f297c03b38fc5ad6d817f140daca8990062524640aa8b9672a0/suitable-0.17.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0c/c5/139eb5686f297c03b38fc5ad6d817f140daca8990062524640aa8b9672a0/suitable-0.17.2.tar.gz
 Summary  : Suitable is a thin wrapper around the Ansible API.
@@ -62,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1591716390
+export SOURCE_DATE_EPOCH=1599847870
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
